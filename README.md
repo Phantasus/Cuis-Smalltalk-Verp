@@ -5,6 +5,11 @@
 This repository contains released packages of different states of
 completion for Cuis Smalltalk.
 
-# Install Guides
+## Packages
 
-Installing the [Gopher package](install_gopher.md)
+| Name   | Description      |
+| ------ | ---------------- |
+| Gopher | [Gopher Utilities][1] |
+
+
+[1]: README_gopher.md
